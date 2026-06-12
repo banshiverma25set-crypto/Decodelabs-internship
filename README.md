@@ -1,33 +1,46 @@
-# Decodelabs-internship
-AI Chatbot - Decode Labs Internship
+# Decode Labs AI Internship Projects
 
-Overview
+## Author
+**Banshi Verma**  
+B.Tech CSE | Mody University of Science and Technology
 
-This project is a simple rule-based AI chatbot developed using Python as part of the Decode Labs Internship.
+##  Project 1: Rule-Based AI Chatbot
+A simple chatbot built using Python that responds to predefined user queries.
 
-Features
+### Features
+- Interactive text-based conversation
+- Answers basic predefined questions
+- Uses loops and conditional statements
+- Easy to understand and extend
 
-- Greeting responses
-- AI-related questions
-- User interaction through text
-- Exit command
-- Continuous conversation loop
+**Technologies Used:** Python, VS Code, Git, GitHub
 
-Technologies Used
+---
 
-- Python
-- VS Code
+##  Project 2: Iris Flower Classification
+A machine learning project that predicts Iris flower species using the Decision Tree algorithm.
+
+### Features
+- Loads the Iris dataset
+- Trains a Decision Tree model
+- Predicts flower species
+- Displays model accuracy
+- Supports custom user input
+
+**Technologies Used:** Python, Scikit-learn, VS Code, Git, GitHub
+
+---
+
+##  Skills Learned
+- Python Programming
+- Machine Learning Basics
+- Decision Tree Classification
+- Problem Solving
 - Git & GitHub
 
-How to Run
+## ▶ How to Run
 
-1. Open terminal
-2. Run:
-
+```bash
 python chatbot.py
-
-Author
-
-Banshi Verma
-B.Tech CSE
-Mody University of Science and Technology
+python classification.py
+```
